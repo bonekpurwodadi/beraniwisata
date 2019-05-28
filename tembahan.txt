@@ -1,0 +1,4 @@
+warna logo BeraniWisata
+biru #0a84a9
+kuning #ff9000
+hitam #343a40
