@@ -9014,7 +9014,7 @@ button.bg-dark:hover {
     top: 0;
     right: 0;
     left: 0;
-    z-index: 1030
+    z-index: 1030;
 }
 
 .fixed-bottom {
@@ -9022,7 +9022,7 @@ button.bg-dark:hover {
     right: 0;
     bottom: 0;
     left: 1280px;
-    z-index: 1030
+    z-index: 1030;
 }
 
 @supports ((position:-webkit-sticky) or (position:sticky)) {
@@ -11789,7 +11789,7 @@ header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(10rem - 72px);
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, .8)), to(rgba(255, 255, 255, .8))), url(../img/depan.png);
-    background: linear-gradient(to bottom, rgba(255, 255, 255) 0, rgba(255, 255, 255) 100%), url(../img/depan.png");
+    background: linear-gradient(to bottom, rgba(255, 255, 255) 0, rgba(255, 255, 255) 100%), url("../img/depan.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
