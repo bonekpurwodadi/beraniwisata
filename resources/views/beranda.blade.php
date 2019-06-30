@@ -28,6 +28,17 @@
   </div>
 </section>
 
+<!--Legalitas-->
+<section class="page-section" id="artikel">
+  <div class="container">
+    <hr class="divider my-4">
+    <div class="row">
+    
+    </div>
+  </div>
+  </div>
+</section>
+
 <!--Artikel-->
 <section class="page-section" id="artikel">
   <div class="container">
